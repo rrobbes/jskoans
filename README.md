@@ -1,2 +1,0 @@
-# jskoans
-Created with CodeSandbox
